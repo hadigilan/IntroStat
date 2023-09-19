@@ -1,5 +1,5 @@
 
-Central Limit T
+Central Limit Theorem & Law of Large Numbers
 
 
 #
